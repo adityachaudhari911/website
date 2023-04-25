@@ -146,7 +146,7 @@ export const content = {
         title: "Arduino",
         para: "Input and Output Devices",
         logo: services_logo3,
-        link: "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+        link: "https://www.behance.net/gallery/169135459/Input-and-Output-Devices",
       },
     ],
   },
